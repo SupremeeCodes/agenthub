@@ -23,8 +23,7 @@ AgentHub is a web platform that allows users to explore, understand, and deploy 
 
 - Agent marketplace  
 - More integrations  
-- User accounts  
-- Web3 features  
+- More Agents
 
 ---
 
